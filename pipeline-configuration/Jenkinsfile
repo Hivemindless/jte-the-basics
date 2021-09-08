@@ -1,2 +1,3 @@
 build()
+sh 'npm install'
 static_code_analysis()
