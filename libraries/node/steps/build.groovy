@@ -1,4 +1,4 @@
-void call(){
+node {
         stage("Node: Build"){
                 println "build from the node library"
                 sh "npm install"
