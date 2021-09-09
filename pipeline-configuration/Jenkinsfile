@@ -1,3 +1,3 @@
-build_m()
-build_g()
+maven.build_m()
+gradle.build_g()
 static_code_analysis()
