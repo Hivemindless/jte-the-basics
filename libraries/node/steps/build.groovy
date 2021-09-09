@@ -1,4 +1,4 @@
-void call(){
+def call(){
         stage("Node: Build"){
                 println "build from the node library"
                 steps {
